@@ -11,6 +11,5 @@ node_modules
 npm-debug.log
 
 # other
-dist/
-!dist/*.html
+dist/*.js
 
